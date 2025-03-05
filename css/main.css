@@ -16,21 +16,18 @@ th { text-align: left;}
   padding-bottom: 0px;
 }
 
-a { color: #11D3EF; }
-a:hover { color: #FFFEFF; }
-
-.in_progress { color: #F7681C; }
+.in_progress { color: #FBC42B; }
 .done { color: #8ECB4A; }
 .navbar { color: #000000; text-align: center;}
-a { color: #3FF0F8 }
-a:hover { color: #28999E }
+a { color: #BD5049 }
+a:hover { color: #520e09 }
 
 .navbar-inner {
   min-height: 40px;
   padding-right: 20px;
   padding-left: 20px;
-  background-color: #11D3EF;
-  background-image: linear-gradient(to bottom,  #11D3EF,  #11D3EF);
+  background-color: #366725;
+  background-image: linear-gradient(to bottom,  #366725,  #366725);
   background-repeat: repeat-x;
   border: 5px solid #000000;
 }
@@ -40,8 +37,9 @@ body {
   font-size: 14px;
   line-height: 20px;
   color: #bbbbbb;
-  background-color: #18313C
+  background-color: #0c2903
 }
+
 
 @media print {
   body { color: #ffffff; }
